@@ -14,3 +14,5 @@ json_file=paste0("https://api.genderize.io/?name=",this_name)
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ```
+## Interim dataframes
+In the `interim_dataframes` directory are interim files from the analysis stored to facilitate the reproduction of the results.
